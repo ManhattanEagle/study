@@ -4,19 +4,54 @@
 
 **2、**通过以下命令安装虚拟环境：pip install virtualenv
 
+![](/assets/import.png)
+
+![](/assets/version.png)
+
 **3、**开辟新的虚拟环境：virtualenv \[virtualenv-name\]
+
+                                        virtualenv flask-env
+
+![](/assets/flask-env.png)
 
 **4、**激活虚拟环境：
 
 ```
     ※【Windows】：直接进入到虚拟环境的目录，然后执行activate
-        \Virtualenv\flask-env\Scripts>activate
+        C:\Users\wangxu5\flask-env\Scripts>activate
+        如下图，输入activate命令后，显示了虚拟环境(flask-env)，证明已经进入该虚拟环境
     ※退出虚拟环境：deactivate
 ```
 
+### ![](/assets/activate.png)
+
 ### \#\#\# pip安装flask：
 
-\Virtualenv\flask-env\Scripts&gt;pip install flask
+C:\Users\wangxu5\Virtualenv\flask-env\Scripts&gt;pip install flask
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
