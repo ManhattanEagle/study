@@ -1,6 +1,7 @@
 # Summary
 
-* [Introduction](README.md)
-* [First Chapter](chapter1.md)
-* [Linux](linux.md)
+* [备忘录](README.md)
+  * [堡垒机](bao-lei-ji.md)
+* [学习笔记](xue-xi-bi-ji.md)
+  * [Python](xue-xi-bi-ji/a.md)
 
