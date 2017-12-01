@@ -33,5 +33,45 @@
 
 **1、**在创建的虚拟环境中安装flask
 
-C:\Users\wangxu5\flask-env\Scripts&gt;pip install flask
+            ※进入虚拟环境，并激活：C:\Users\wangxu5\flask-env\Scripts&gt;activate
+
+            ※安装flask：\(flask-env\) C:\Users\wangxu5\flask-env\Scripts&gt;pip install flask
+
+![](/assets/flask.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
