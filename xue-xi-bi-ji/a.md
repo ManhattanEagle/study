@@ -10,7 +10,9 @@
 
 **3、**开辟新的虚拟环境：virtualenv \[virtualenv-name\]
 
-                                        virtualenv flask-env
+```
+                                    virtualenv flask-env
+```
 
 ![](/assets/flask-env.png)
 
@@ -28,6 +30,26 @@
 ### \#\#\# pip安装flask：
 
 C:\Users\wangxu5\Virtualenv\flask-env\Scripts&gt;pip install flask
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
