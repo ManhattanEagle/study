@@ -10,10 +10,6 @@
 
 **3、**开辟新的虚拟环境：virtualenv \[virtualenv-name\]
 
-```
-                                    virtualenv flask-env
-```
-
 ![](/assets/flask-env.png)
 
 **4、**激活虚拟环境：
