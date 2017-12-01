@@ -27,55 +27,11 @@
 
 ### ![](/assets/activate.png)
 
+### 
+
 ### \#\#\# pip安装flask：
 
-C:\Users\wangxu5\Virtualenv\flask-env\Scripts&gt;pip install flask
+**1、**在创建的虚拟环境中安装flask
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+C:\Users\wangxu5\flask-env\Scripts&gt;pip install flask
 
